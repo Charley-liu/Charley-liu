@@ -31,15 +31,15 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/hipi">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hipi&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hipi&layout=compact&langs_count=8&theme=vue"/>
+<a href="https://github.com/Charley-liu">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Charley-liu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charley-liu&layout=compact&langs_count=8&theme=vue"/>
 </a>
 
 
 
 <!--
-**hipi/hipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Charley-liu/Charley-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔 I’m looking for help with ...
 
