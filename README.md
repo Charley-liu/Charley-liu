@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 
 ### ⚙️ &nbsp;GitHub Analytics
