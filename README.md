@@ -3,7 +3,7 @@
 > 一分耕耘，一分收获
 >> No pains, no gains
 
-[💦个人博客,欢迎指导](https://charley-liu.github.io/?color=brightgreen)
+[💦个人博客,欢迎指导](https://charley-liu.github.io)
 
 ![](https://komarev.com/ghpvc/?username=Charley-liu&color=brightgreen)
 
