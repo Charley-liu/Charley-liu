@@ -1,9 +1,9 @@
 ### 👋 Hi Monkey
 
 > 一分耕耘，一分收获
->> No pains, no gains 
+>> No pains, no gains
 
-![](https://charley-liu.github.io/)
+[💦个人博客,欢迎指导](https://charley-liu.github.io/?color=brightgreen)
 
 ![](https://komarev.com/ghpvc/?username=Charley-liu&color=brightgreen)
 
